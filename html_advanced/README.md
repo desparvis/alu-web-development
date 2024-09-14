@@ -7,4 +7,5 @@ This designer file will be available on Figma - feel free to create an account t
 
 Page in Figma
 fig file
-And “Duplicate to your Drafts” to have access to all design details.
+And “Duplicate to your Drafts” to access all design details.
+![figma](https://github.com/user-attachments/assets/f475679a-da1e-4091-88d1-579c3dbe95be)
