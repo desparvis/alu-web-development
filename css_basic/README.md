@@ -1,2 +1,2 @@
-#Basic css
+# Basic css
 Learning the basics of css
